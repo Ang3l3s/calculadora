@@ -1,0 +1,9 @@
+C:\Users\CaritoCam\Desktop\LSC\Maria de los Angeles Moreno Gomez\Maria de los Angeles Moreno Gomez\bin\Debug\Maria de los Angeles Moreno Gomez.exe.config
+C:\Users\CaritoCam\Desktop\LSC\Maria de los Angeles Moreno Gomez\Maria de los Angeles Moreno Gomez\bin\Debug\Maria de los Angeles Moreno Gomez.exe
+C:\Users\CaritoCam\Desktop\LSC\Maria de los Angeles Moreno Gomez\Maria de los Angeles Moreno Gomez\bin\Debug\Maria de los Angeles Moreno Gomez.pdb
+C:\Users\CaritoCam\Desktop\LSC\Maria de los Angeles Moreno Gomez\Maria de los Angeles Moreno Gomez\obj\Debug\Maria de los Angeles Moreno Gomez.csprojResolveAssemblyReference.cache
+C:\Users\CaritoCam\Desktop\LSC\Maria de los Angeles Moreno Gomez\Maria de los Angeles Moreno Gomez\obj\Debug\Maria_de_los_Angeles_Moreno_Gomez.Form1.resources
+C:\Users\CaritoCam\Desktop\LSC\Maria de los Angeles Moreno Gomez\Maria de los Angeles Moreno Gomez\obj\Debug\Maria_de_los_Angeles_Moreno_Gomez.Properties.Resources.resources
+C:\Users\CaritoCam\Desktop\LSC\Maria de los Angeles Moreno Gomez\Maria de los Angeles Moreno Gomez\obj\Debug\Maria de los Angeles Moreno Gomez.csproj.GenerateResource.Cache
+C:\Users\CaritoCam\Desktop\LSC\Maria de los Angeles Moreno Gomez\Maria de los Angeles Moreno Gomez\obj\Debug\Maria de los Angeles Moreno Gomez.exe
+C:\Users\CaritoCam\Desktop\LSC\Maria de los Angeles Moreno Gomez\Maria de los Angeles Moreno Gomez\obj\Debug\Maria de los Angeles Moreno Gomez.pdb
